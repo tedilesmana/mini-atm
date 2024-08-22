@@ -21,7 +21,7 @@ This project is a Laravel-based ATM system that allows users to deposit funds, w
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mini-atm.git
+git clone https://github.com/tedilesmana/mini-atm.git
 cd mini-atm
 ```
 

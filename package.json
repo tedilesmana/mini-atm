@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "axios": "^1.6.4",
+        "git-cz": "^4.9.0",
+        "laravel-vite-plugin": "^1.0.0",
+        "sass": "1.77.6",
+        "vite": "^5.0.0"
+    },
+    "dependencies": {
+        "bootstrap": "^5.3.3"
+    },
+    "config": {
+        "commitizen": {
+            "path": "./node_modules/git-cz"
+        }
+    }
+}
